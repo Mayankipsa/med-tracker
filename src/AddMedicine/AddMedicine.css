@@ -1,0 +1,14 @@
+#addMedicine{
+    display: inline-block;
+    width: 400px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    margin: 10px;
+    text-align: left;
+}
+
+.inline{
+    display: inline-block;
+    width: 100px;
+}
